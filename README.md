@@ -9,3 +9,7 @@ conda create -n medichat python=3.8 -y
 ```zsh 
 conda activate medichat
 ```
+
+```zsh 
+pip install -r requirements.txt
+```
